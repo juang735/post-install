@@ -40,7 +40,15 @@ Now that i hace my virtual machine set up, i can use the Remote Desktop Connecti
 <img src="https://i.imgur.com/Xg1wCTN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-One's my virtual machine is ready, i'll would use the  IP address to connect to  VM’s and  make sure my VM's firewall settings are connected. Azure often automatically handles this for you, but it’s good to double-check.
+One's my virtual machine is ready, i'll would use the  IP address to connect to  VM’s and  make sure my VM's firewall settings are connected. Azure often automatically handles this for you, but it’s good to double-check. I can now use the virtual machine just like a regular computer like:
+
+Run programs.
+
+Browse the web.
+
+Install software.
+
+Do anything you would on a physical computer.
 </p>
 <br />
 
