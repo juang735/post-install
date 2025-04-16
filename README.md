@@ -57,5 +57,9 @@ Do anything you would on a physical computer.
 </p>
 <p>
 
+<p>
+<img src="https://i.imgur.com/zB6gQEp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<p>
+this where someone click something bad but is not normally it would need to check their unti antivirus or ther vpn if not then it would go to cybersecurity department.
+
