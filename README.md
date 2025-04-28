@@ -21,18 +21,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-
 <h2>Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DaRrTtM.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that i hace my virtual machine set up, i can use the Remote Desktop Connection to access it then i would get my Public IP address of of my VM into the Remote Desktop Connection app.
+In the Microsoft Azure portal, I can create, manage, and monitor cloud resources like virtual machines, databases, and web apps. It provides a user-friendly interface to configure services, deploy applications, and manage security through role-based access control. You can also track usage and performance with built-in dashboards and analytics. Overall, it’s a centralized place to manage your entire Azure environment.
 </p>
 <br />
 
@@ -40,26 +35,18 @@ Now that i hace my virtual machine set up, i can use the Remote Desktop Connecti
 <img src="https://i.imgur.com/Xg1wCTN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-One's my virtual machine is ready, i'll would use the  IP address to connect to  VM’s and  make sure my VM's firewall settings are connected. Azure often automatically handles this for you, but it’s good to double-check. I can now use the virtual machine just like a regular computer like:
-
-Run programs.
-
-Browse the web.
-
-Install software.
-
-Do anything you would on a physical computer.
+Once my virtual machine is ready, I'll use the IP address to connect to it and ensure the firewall settings are properly configured. While Azure typically handles this automatically, it's always a good idea to double-check. From there, I can use the virtual machine just like a physical computer by running programs, browsing the web, installing software, and performing any other tasks you'd normally do on a regular machine.
+  
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/plKH19M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+I can use Internet Information Services (IIS) to host and manage websites, web applications, and services on a Windows server. It allows you to configure settings like authentication, security, and performance for your sites. IIS supports multiple web technologies such as ASP.NET, PHP, and static HTML. You can access and manage it through the IIS Manager GUI or with command-line tools like PowerShell.
 <p>
 <img src="https://i.imgur.com/zB6gQEp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-this where someone click something bad but is not normally it would need to check their unti antivirus or ther vpn if not then it would go to cybersecurity department.
+When a customer says they clicked a bad link or malware, first I'll advise them to disconnect from the internet to prevent further damage. Ask them not to enter any sensitive information and to avoid clicking anything else. Then, guide them to run a full antivirus or anti-malware scan immediately. Finally, report the incident to your IT or security team for further investigation and support.
 
